@@ -5,7 +5,8 @@ This is database sample in NetBeans IDE where user can add first name, last name
 The database used in the project is **Apache Derby**.
 
 ## How to use the database in the sample project:
-The database file is here: http://viid.me/qjrgdV
+The database file is here: http://viid.me/qjrgdV.
+
 The database import steps, in NetBeans IDE, are as follows:
 
 1. Under **Services** tab, open the Databases node. If you can't see the Services tab, click **Window** from the NetBeans menu. From the Window menu, select **Services**. You should see something as shown in the following link: http://viid.me/qjrcce
